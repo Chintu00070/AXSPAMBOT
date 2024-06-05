@@ -7,55 +7,67 @@
         "telegram-bot",
         "PythonX",
         "SpamBots"
-    ],
+    ]
     "repository": "https://github.com/Chintu00070/AXSPAMBOT",
     "env": {
       "BOT_TOKEN": {
+7068890856:AAEhNgkK2LuG4dKcZNFMCm3L6cD_ARAGsrg
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN2": {
+7477124627:AAFoqqaFRYtranTJlxRmRiSTRRqrlkGN604
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN3": {
+7472759873:AAH4qN2oN7OC3tQuKnjDrQhoYA4kk7MGpVo
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN4": {
+7229615439:AAH4LeqXHuAMSM9Q8QOsovvRJi6LK1v1S48
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN5": {
+7309095765:AAH7KhtXrX6FrU-5kPj5uLz0CcEOiUJPI0I
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN6": {
+7008762894:AAFjrPDpvDLwp7N-fi7xXbUC1ADX5XSebR4
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN7": {
+7453164691:AAG807gTZEXyWkUn3l5aBsc0prjAXGyQ7ow
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN8": {
+7269809257:AAEIgelJThaKU9KoY7sE-uiKkAaG6-KcL6Q
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
-      "BOT_TOKEN9": {
+      "BOT_TOKEN9": {7119253559:AAFQGAiCcnKQ3XwToLI7T1Hw2StmpuG57lw
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
       },
       "BOT_TOKEN10": {
+
+
+
+7362437623:AAG5USQoj2wNm_T4uBEwEssThkNfSV-2pA4
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
         "value": "",
         "required": true
@@ -65,22 +77,24 @@
         "value": "!",
         "required": false
       },
-      "SUDO_USERS": {
+      "SUDO_USERS": {6125492828
         "description": "Sudo users id space by space",
         "value": "7117906157",
         "required": false
       },
-      "OWNER_ID": {
+      "OWNER_ID": {4268957274
         "description": "Owner Id",
         "value": "7117906157",
         "required": true
       },
       "HEROKU_API_KEY": {
+
+20562919
         "description": "Your Heroku api key to update your bot",
         "value": "",
         "required": false 
       },
-      "HEROKU_APP_NAME": {
+      "HEROKU_APP_NAME": {chintu
         "description": "Your app name to Update your bot",
         "value": "",
         "required": false  
@@ -90,5 +104,7 @@
         {
             "url": "heroku/python"
         }
+
+15eac0e83503806f02f39f452dd6431e
     ]
       }
